@@ -1,4 +1,4 @@
-[![Actions Demo .NET](https://github.com/VitaKotenko/DevOps_CI/actions/workflows/dotnet.yml/badge.svg)](https://github.com/VitaKotenko/DevOps_CI/actions/workflows/dotnet.yml)
+[![.NET](https://github.com/VitaKotenko/DevOps_CI/actions/workflows/dotnet.yml/badge.svg)](https://github.com/VitaKotenko/DevOps_CI/actions/workflows/dotnet.yml)
 
 # Description
 This project is the .Net backend part of an educational  project. It provides connection to DB, implements CRUD operations and sends responses to requests. 
